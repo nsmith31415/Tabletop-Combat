@@ -34,6 +34,17 @@ public class Character {
     private int level;
     private int proficiency;
 
+    //Default constructor - all stats = 0 until character manually changes
+    public Character(){
+        strength = 0;
+        dexterity = 0;
+        constitution = 0;
+        intelligence = 0;
+        wisdom = 0;
+        charisma = 0;
+    }
+
+    //array constructor - stats set in order (idk if this is needed)
     public Character(int[] statarray){
         strength = new Stat(statarray[0]);
         dexterity = new Stat(statarray[1]);
