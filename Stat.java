@@ -14,7 +14,7 @@ public class Stat {
      */
     public void setStat(int stat) {
         this.stat = stat;
-        setMod(stat)
+        setMod(stat);
     }
     /**
      * @param stat the stat to use to set the mod
