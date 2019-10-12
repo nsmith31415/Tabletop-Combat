@@ -17,6 +17,7 @@ Full Character Generator (DnD or other tabletops? random, output to PDF, include
                       -Track damage over time/healing over time
 --------------------------------------------------------------------------------------------------------Actual process list would likely be more like:
 1. Create functioning classes/interactive text-based implementation of following:
+--- Characters
 --- Actions
 --- Bonus Actions
 --- Reactions
