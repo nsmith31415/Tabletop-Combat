@@ -3,17 +3,18 @@ A modular approach to simplifying combat for Players in Tabletop RPGs
 
 
 # TODO:
-Full Character Generator (DnD or other tabletops? random, output to PDF, includes level stats)
+* Full Character Generator (DnD or other tabletops? random, output to PDF, includes level stats)
     * Picked or random 'type' of character and generate through weighted randoms from there
     * Map generator? https://en.wikipedia.org/wiki/Procedural_generation
     * Picked or random 'type' of map and generate through weighted randoms
         * Combat/turn guide 
-            *"It's your turn, what do you do? Action{Attack, Spell} Bonus Actions {} Reaction {} Movement{} (Enabled if on generated battle map
-            *Timer for abilities, based on player-set action time length
+        * "It's your turn, what do you do? Action{Attack, Spell} Bonus Actions {} Reaction {} Movement{} (Enabled if on generated battle map
+            * Timer for abilities, based on player-set action time length
                 * Start combat: Actions take X seconds
                 * "Your flaming sphere fizzles out this turn"
                 * Track damage over time/healing over time
-Actual process list would likely be more like:
+
+# Actual process list would likely be more like:
 1. Create functioning classes/interactive text-based implementation of following:
     * Characters
     * Actions
