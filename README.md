@@ -15,7 +15,8 @@ Full Character Generator (DnD or other tabletops? random, output to PDF, include
                       -Start combat: Actions take X seconds
                       -"Your flaming sphere fizzles out this turn"
                       -Track damage over time/healing over time
---------------------------------------------------------------------------------------------------------Actual process list would likely be more like:
+--------------------------------------------------------------------------------------------------------
+Actual process list would likely be more like:
 1. Create functioning classes/interactive text-based implementation of following:
 --- Characters
 --- Actions
