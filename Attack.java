@@ -1,0 +1,7 @@
+/**
+ * Attack
+ */
+public class Attack {
+
+    
+}
