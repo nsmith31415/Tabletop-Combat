@@ -36,12 +36,13 @@ public class Character {
 
     //Default constructor - all stats = 0 until character manually changes
     public Character(){
-        strength = 0;
-        dexterity = 0;
-        constitution = 0;
-        intelligence = 0;
-        wisdom = 0;
-        charisma = 0;
+        strength = new Stat(0);
+        dexterity = new Stat(0);
+        constitution = new Stat(0);
+        intelligence = new Stat(0);
+        wisdom = new Stat(0);
+        charisma = new Stat(0);
+
     }
 
     //array constructor - stats set in order (idk if this is needed)
