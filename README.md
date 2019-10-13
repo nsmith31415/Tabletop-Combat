@@ -2,7 +2,7 @@
 A modular approach to simplifying combat for Players in Tabletop RPGs
 
 
-# TODO:
+# Ideas:
 * Full Character Generator (DnD or other tabletops? random, output to PDF, includes level stats)
     * Picked or random 'type' of character and generate through weighted randoms from there
     * Map generator? https://en.wikipedia.org/wiki/Procedural_generation
