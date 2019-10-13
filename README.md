@@ -2,7 +2,7 @@
 A modular approach to simplifying combat for Players in Tabletop RPGs
 
 
-# Ideas:
+### Ideas:
 * Full Character Generator (DnD or other tabletops? random, output to PDF, includes level stats)
     * Picked or random 'type' of character and generate through weighted randoms from there
     * Map generator? https://en.wikipedia.org/wiki/Procedural_generation
@@ -14,7 +14,7 @@ A modular approach to simplifying combat for Players in Tabletop RPGs
                 * "Your flaming sphere fizzles out this turn"
                 * Track damage over time/healing over time
 
-# Actual process list would likely be more like:
+### Actual process list would likely be more like:
 1. Create functioning classes/interactive text-based implementation of following:
     * Characters
     * Actions
@@ -34,6 +34,6 @@ A modular approach to simplifying combat for Players in Tabletop RPGs
 7. make everything look pretty
 8. fix everything because making it look pretty broke it.
 
-# ADVANCED TODO:
+### ADVANCED TODO:
 9. Make an import/export function using JSON files
 10. Allow character storage and logins so characters don't HAVE to be saved as JSON files
