@@ -34,3 +34,8 @@ Full Character Generator (DnD or other tabletops? random, output to PDF, include
 6. Create 'combat mode' display specifically outlining attacks, spells, and abilities, easily expandable into detailed descriptions
 7. make everything look pretty
 8. fix everything because making it look pretty broke it.
+-----------------------------------------
+ADVANCED SHIT
+-----------------------------------------
+9. Make an import/export function using JSON files
+10. Allow character storage and logins so characters don't HAVE to be saved as JSON files
