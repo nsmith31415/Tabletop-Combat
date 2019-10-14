@@ -27,7 +27,7 @@
     * Resetting through long rest
 
 2. Create JS React webapp interface
-3. Link functions to webapp interface and virtual character sheet
+3. Link functions to webapp interface and virt  ual character sheet
 4. Allow (guided, unguided?) creation of character sheet
 5. Allow display of full character sheet
 6. Create 'combat mode' display specifically outlining attacks, spells, and abilities, easily expandable into detailed descriptions
@@ -37,3 +37,4 @@
 ### ADVANCED TODO:
 9. Make an import/export function using JSON files
 10. Allow character storage and logins so characters don't HAVE to be saved as JSON files
+    * OR no logins, make app completely local and save characters with cookies or otherwise locally on mobile devices
