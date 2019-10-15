@@ -8,6 +8,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
+    "prestart": "node-sass --include-path sass src/style.scss src/style.css",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -27,5 +28,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
   }
 }
