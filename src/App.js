@@ -11,14 +11,19 @@ function App() {
         <p>
           Welcome to Tabletop Combat!
         </p>
-      <div class="btn-holder">
-      <button class="btn btn-primary">
+      <div>
+        <div class="btn-holder">
+      <button class="btn btn-primary btn-flat">
         I've already created a character
       </button>
-      <button class="btn btn-primary">
+      </div>
+      <div class="btn-holder">
+      <button class="btn btn-primary btn-flat">
         I'm starting from scratch
       </button> 
       </div>
+      </div>
+      
       
       </header>
       
