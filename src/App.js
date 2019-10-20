@@ -6,16 +6,16 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="LogoTest.PNG" className="App-logo" alt="logo" />
+        <img src={require("./LogoTest2.PNG")} class="App-logo" alt="logo" />
         <p>
           Welcome to Tabletop Combat!
         </p>
       <div>
         <div class="btn-holder">
-      <button class="btn btn-primary btn-flat">
-        I've already created a character
-      </button>
-      </div>
+          <button class="btn btn-primary btn-flat">
+            I've already created a character
+          </button>
+        </div>
       <div class="btn-holder">
       <button class="btn btn-primary btn-flat">
         I'm starting from scratch

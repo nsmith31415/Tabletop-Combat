@@ -51,6 +51,9 @@ h1 {
     .presentation-block .row:last-child {
       margin-bottom: 0; }
 
+.btn-holder .btn {
+  margin: 5px; }
+
 .btn {
   display: inline-block;
   margin-bottom: 0;
@@ -59,7 +62,7 @@ h1 {
   vertical-align: middle;
   cursor: pointer;
   background-image: none;
-  whitespace: nowrap;
+  white-space: nowrap;
   padding: 6px 12px;
   font-size: 1.4rem;
   border-radius: 3px;
