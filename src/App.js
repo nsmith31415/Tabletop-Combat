@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={require("./LogoTest2.PNG")} class="App-logo" alt="logo" />
-        <p>
+        <h4>
           Welcome to Tabletop Combat!
-        </p>
+        </h4>
       <div>
         <div class="btn-holder">
           <button class="btn btn-primary btn-flat">
@@ -26,6 +26,19 @@ function App() {
       
       </header>
       
+    </div>
+  );
+}
+
+function dataInput() {
+  return(
+    <div className="App">
+      <header className="App-header">
+        <img src={require("./LogoTest2.PNG")} class="App-logo" alt="logo" />
+        <h4>
+          Welcome to Tabletop Combat!
+        </h4>
+      </header>
     </div>
   );
 }
