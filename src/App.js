@@ -17,7 +17,7 @@ function App() {
           </button>
         </div>
       <div class="btn-holder">
-      <button class="btn btn-primary btn-flat">
+      <button class="btn btn-primary btn-flat" onlcick={dataInput()}>
         I'm starting from scratch
       </button> 
       </div>
