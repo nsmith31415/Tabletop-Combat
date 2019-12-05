@@ -12,7 +12,7 @@ class Welcome extends Component {
   }
   render() {
       return (
-        <div className="App">
+        <div className="Welcome">
           <header className="App-header">
             <img src={require("./LogoTest2.PNG")} class="App-logo" alt="logo" />
             <h4>
@@ -26,7 +26,7 @@ class Welcome extends Component {
           </header>
         </div>
         );
-    \
+    
       }
 
   handleClick() {
@@ -41,4 +41,4 @@ class Welcome extends Component {
 
 
 
-export default App;
+export default Welcome;
