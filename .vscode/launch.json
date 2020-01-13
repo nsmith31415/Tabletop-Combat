@@ -4,6 +4,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - testStuff",
             "request": "launch",
+            "mainClass": "JavaSrc.testStuff",
+            "projectName": "Tabletop-Combat_49f8b25e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testStuff",
+            "request": "launch",
             "mainClass": "testStuff"
         }
     ]
